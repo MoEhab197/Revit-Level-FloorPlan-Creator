@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Create Levels and Floor Plans</Name>
+		<Assembly>D:\000-KADD\16-11-2024\LevelCreator\obj\Debug\LevelCreator.dll</Assembly>
+		<AddInId>BD66A03F-AED4-48A5-A006-86F1932ED813</AddInId>
+		<FullClassName>LevelCreator.LevelCreatorManager</FullClassName>
+		<Text>Create Levels and Floor Plans</Text>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
